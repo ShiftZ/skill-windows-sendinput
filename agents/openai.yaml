@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows SendInput"
+  short_description: "Send relative Windows mouse input"
+  default_prompt: "Use Win32 SendInput to send a parameterized relative mouse input pattern on Windows."
