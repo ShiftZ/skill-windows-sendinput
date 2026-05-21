@@ -1,5 +1,5 @@
 ---
-name: skill-windows-sendinput
+name: windows-sendinput
 description: Send relative Windows mouse input from Python through Win32 SendInput. Use when Codex needs to generate or run mouse-delta input patterns on Windows, drive or test a Windows app or game with relative mouse motion, test raw mouse paths such as WM_INPUT, or build parameterized SendInput mouse sender scripts from generator patterns.
 ---
 
